@@ -4,4 +4,4 @@ This repository houses examples of work I have done around Security Awareness an
 
 None of these materials may be reused for any purpose, as they are listed here for informational purposes.
 
-Materials here may include clips of training modules I have developed, watermarked infographics or examples of phishing examples, strategies and other work pertaining to a human risk management program.
+Materials here may include clips of training modules I have developed, watermarked infographics or examples of phishing simulations, metrics definitions & KPIs, strategies and other work pertaining to a human risk management program.
